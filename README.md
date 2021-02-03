@@ -2,7 +2,7 @@
 
 <p align="left" style="font-size: 1.25rem;">
 I'm Yarkin from Turkey. i studied Business Informatics but i took it's programming side and i absolutley loved it.
-Everyday i learn new things, try them out and try to make cool things out of.
+Everyday i learn new things, try them out and try to make cool things out of them.
 I'll soon create a portfolio site for my projects so stay tuned in!
 </p>
 
