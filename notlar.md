@@ -57,15 +57,12 @@ if(true){
 }
 ```
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| First Header                | Second Header                |
+| --------------------------- | ---------------------------- |
+| Content from cell 1         | Content from cell 2          |
+| Content in the first column | Content in the second column |
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 ![Server](./assets/001-server-21.png) 
-<img src="assets/001-server-21.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;"
-     width="15%" />
+<img src="assets/001-server-21.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="15%" />
